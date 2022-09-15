@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephkitara
-- 👀 I’m interested in programming with python and c++
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m a web developer
+- 🌱 I’m currently a frontend and backend developer
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...josephnanai04@gmail.com
 
 <!---
